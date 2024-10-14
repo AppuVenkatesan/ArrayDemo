@@ -15,9 +15,14 @@ public class array {
 	
 	int arr2[] = {1,3,4,6};
 	
+	System.out.println("Just for git");
+	System.out.println("Just for git1");
+	
 	for (int i=0;i<arr2.length;i++) {
 		
 		System.out.println(arr2[i]);
+		
+		
 		
 	}
 	
