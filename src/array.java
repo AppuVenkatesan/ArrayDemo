@@ -18,6 +18,8 @@ public class array {
 	System.out.println("Just for git");
 	System.out.println("Just for git1");
 	
+	System.out.println("user2 commit");
+	
 	for (int i=0;i<arr2.length;i++) {
 		
 		System.out.println(arr2[i]);
