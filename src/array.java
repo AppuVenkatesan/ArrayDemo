@@ -20,6 +20,8 @@ public class array {
 	
 	System.out.println("user2 commit");
 	
+	System.out.println("this is for branch");
+	
 	for (int i=0;i<arr2.length;i++) {
 		
 		System.out.println(arr2[i]);
@@ -34,7 +36,7 @@ public class array {
 
 	}
     
-    
+    	
    String [] name = {"nature", "India" , "abcd"};
    
    for (String s : name) {
