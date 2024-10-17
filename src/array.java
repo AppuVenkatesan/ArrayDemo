@@ -18,11 +18,16 @@ public class array {
 	System.out.println("Just for git");
 	System.out.println("Just for git1");
 	
-<<<<<<< HEAD
+
 	System.out.println("for user2 commit");  //for user2
-=======
+
 	System.out.println("user2 commit");
->>>>>>> be5d952b514204147a68000924edef61ed084cbb
+
+	
+	System.out.println("this is for branch");
+	
+	
+	System.out.println("from another user1 in branch");
 	
 	for (int i=0;i<arr2.length;i++) {
 		
@@ -38,7 +43,7 @@ public class array {
 
 	}
     
-    
+    	
    String [] name = {"nature", "India" , "abcd"};
    
    for (String s : name) {
